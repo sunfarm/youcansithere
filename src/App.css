@@ -4,9 +4,10 @@
 
 .App-logo {
   animation: App-logo-spin infinite 10s linear;
+  position: absolute;
   height: 20vmin;
-  /* width: 00px; */
   pointer-events: none;
+  opacity: 0.2;
 }
 
 .App-header {
@@ -21,7 +22,9 @@
 }
 
 h1 {
-  font-size: calc(100px + 2vmin);
+  font-size: 48vh;
+  line-height: 1em;
+  /* text-transform: uppercase */
 }
 
 .App-link {

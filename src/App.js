@@ -1,10 +1,9 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import 'bulma';
 import './App.css';
 const faChair = require('./chair-solid.svg');
 
-const message = 'Feel free to sit here';
+const message = 'you can sit here';
 
 class App extends Component {
     render() {
