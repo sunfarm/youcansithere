@@ -20,6 +20,15 @@ class App extends Component {
                     >
                         youcansithere.com
                     </a>
+                    <p className="is-size-6">
+                    Created by <a
+                        className="App-link is-pull-right"
+                        href="https://nathanaelraway.com"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >Nathanael Raway</a>
+                    </p>
+
                 </header>
             </div>
         );
