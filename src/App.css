@@ -1,13 +1,13 @@
 .App {
-  text-align: center;
+text-align: center;
 }
 
 .App-logo {
-  animation: App-logo-spin infinite 10s linear;
-  position: absolute;
-  height: 20vmin;
-  pointer-events: none;
-  opacity: 0.2;
+animation: App-logo-spin infinite 10s linear;
+position: absolute;
+height: 20vmin;
+pointer-events: none;
+opacity: 0.2;
 }
 
 .App-header {
@@ -23,7 +23,8 @@
 
 h1 {
   /* font-size: 48vh; */
-  font-size: 300px;
+  font-size: 26vw;
+  /* font-size: 300px; */
   line-height: 1em;
   /* text-transform: uppercase */
 }
