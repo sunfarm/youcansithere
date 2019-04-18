@@ -12,19 +12,10 @@ class App extends Component {
         <header className='App-header'>
           <img className='App-logo' src={faChair} alt='chair' />
           <h1>{message}</h1>
-          <a
-            className='App-link'
-            href='https://youcansithere.com'
-            target='_blank'
-            rel='noopener noreferrer'
-          >youcansithere.com</a>
           <p className='is-size-6'>
-            Created by <a
-              className='App-link is-pull-right'
-              href='https://nathanaelraway.com'
-              target='_blank'
-              rel='noopener noreferrer'
-            >Nathanael Raway</a>
+            <a className='App-link' href='https://youcansithere.com'>youcansithere.com</a>
+            &nbsp;was created by&nbsp;
+            <a className='App-link is-pull-right' href='https://nathanaelraway.com'>Nathanael Raway</a>
           </p>
         </header>
       </div>
